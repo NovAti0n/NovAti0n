@@ -31,7 +31,7 @@
   </a>
   
   &emsp;
-  <a href="https://www.java.com/fr/" target="_blank">
+  <a href="https://www.java.com/en/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
   
@@ -111,12 +111,12 @@
  
 <p align="left">
   &emsp;
-  <a href="#">
+  <a href="https://code.visualstudio.com/">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
   
   &emsp;
-    <a href="#">
+    <a href="https://stackoverflow.com/">
       <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
   
