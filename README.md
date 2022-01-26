@@ -12,7 +12,7 @@
 
 <br />
 
-### 👉 Techs I love
+### 👉 Techs I use
 
 <p align="left"> 
   &emsp;
