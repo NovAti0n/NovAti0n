@@ -12,7 +12,7 @@
 
 <br />
 
-### 👉 Techs I use
+### 👉 Tech I use
 
 <p align="left"> 
   &emsp;
@@ -69,7 +69,7 @@
   </a>
 </p>
 
-### 👉 Techs I hate (but that I still use)
+### 👉 Tech I hate (but that I still use)
 
 <p align="left"> 
   &emsp;
@@ -82,7 +82,7 @@
   </a>
 </p>
 
-### 👉 Techs I really hate and that everyone should stop using immediatly
+### 👉 Tech I really hate and that everyone should stop using immediatly
 
 <p align="left"> 
   &emsp;
